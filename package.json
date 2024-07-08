@@ -1,20 +1,20 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Pranav Jadhav Portfolio",
+  "description": "Sonal Adat Portfolio",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jadhavhpranav1121/Portfolio.git"
+    "url": "git+https://github.com/sonaladat/portfolio.git"
   },
-  "author": "Pranav Jadhav",
+  "author": "Sonal Adat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jadhavhpranav1121/Portfolio/issues"
+    "url": "https://github.com/sonaladat/portfolio/issues"
   },
-  "homepage": "https://github.com/jadhavhpranav1121/Portfolio#readme",
+  "homepage": "https://github.com/sonaladat/portfolio#readme",
   "dependencies": {}
 }
