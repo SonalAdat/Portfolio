@@ -7,7 +7,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "site": "pranavj",
+    "site": "sonaladat",
     "public": "public",
     "ignore": [
       "firebase.json",
