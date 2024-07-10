@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sonaladat/portfolio.git"
+    "url": "git+https://github.com/SonalAdat/portfolio.git"
   },
   "author": "Sonal Adat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sonaladat/portfolio/issues"
+    "url": "https://github.com/SonalAdat/portfolio/issues"
   },
-  "homepage": "https://github.com/sonaladat/portfolio#readme",
+  "homepage": "https://github.com/SonalAdat/portfolio#readme",
   "dependencies": {}
 }
